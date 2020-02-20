@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68186706852",
+    "firebase_url": "https://letfirebaseproject-1dd45.firebaseio.com",
+    "project_id": "letfirebaseproject-1dd45",
+    "storage_bucket": "letfirebaseproject-1dd45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68186706852:android:85f2dbb39be64ad77ce731",
+        "android_client_info": {
+          "package_name": "com.mrfoster.let"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68186706852-gm1lv2q91p04gk688mu6ohul4cu49luc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mrfoster.let",
+            "certificate_hash": "25640d907318224a3f7f96407e28bf3eef09f50c"
+          }
+        },
+        {
+          "client_id": "68186706852-q3c4ck56h889c3hef37p6aureiilp2cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQS3WaHZTXqhgu-Uhk5nEB2MrcCP1kyYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68186706852-q3c4ck56h889c3hef37p6aureiilp2cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
